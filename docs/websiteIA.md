@@ -46,7 +46,6 @@
     * Arts & Culture
     * Farmers Market
     * Equality, Inclusion & Access
-    * Smoke-free Bloomington
     * Affordable Housing
     * Neighborhoods
       * Historic Districts
