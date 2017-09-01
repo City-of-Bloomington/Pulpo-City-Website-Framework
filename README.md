@@ -12,8 +12,7 @@ Pulpo is our attempt at building a pattern library & design system framework for
     - [Style Guide](docs/contentstyle.md)
     - [Platform Selection](docs/platform.md)
   - Assembly 
-    - [IA Template](docs/websiteIA.md)
-    - Wireframes
+    - [Color Palette](https://bloomington.in.gov/mybloomington/style.html)
     - City-government specific page templates
     - Platform Installation / Configuration 
   - Implementation
